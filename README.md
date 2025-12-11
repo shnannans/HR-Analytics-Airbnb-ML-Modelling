@@ -8,8 +8,8 @@
 
 Two-part machine learning project completed for the **Machine Learning module** at **Ngee Ann Polytechnic** (Oct 2022 semester). The project tackles both **classification** and **regression** problems using real-world datasets, demonstrating end-to-end ML workflows from data exploration to model deployment.
 
-**Assignment 1 (30%)**: Data exploration, cleansing, and transformation  
-**Assignment 2 (40%)**: Model building, evaluation, and hyperparameter tuning
+**Assignment 1**: Data exploration, cleansing, and transformation  
+**Assignment 2**: Model building, evaluation, and hyperparameter tuning
 
 ---
 
